@@ -13,8 +13,8 @@
       <v-card class="align-self-center my-4" elevation="0" width="90%" color="red lighten-4">
         <v-card class="d-flex flex-row align-center mt-1" width="100%" elevation="0" color="red lighten-4">
           <v-card class="d-flex flex-column" width="100%" elevation="0" color="red lighten-4">
-            <v-card-title class="text-subtitle-1" width="100%">Profile verification</v-card-title>
-            <v-card-subtitle class="text-subtitle-1 font-weight-black red--text">REQUIRED</v-card-subtitle>
+            <v-card-title class="text-subtitle-1" width="100%">Lorem ipsum dolor</v-card-title>
+            <v-card-subtitle class="text-subtitle-1 font-weight-black red--text">STATUS 1</v-card-subtitle>
             <!-- <v-text class="mx-4 mb-5">Please submit the required documents to avoid account suspension. </v-text> -->
           </v-card>
           <v-btn class="mx-6" icon color="pink">

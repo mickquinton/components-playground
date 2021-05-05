@@ -1,7 +1,7 @@
 export default {
     state() {
         return {
-          statusProfVer: ["Required", "Optional", "Insufficient"]
+          statusProfVer: ["Status 1", "Status 2", "Status 3"]
         }
       },
 

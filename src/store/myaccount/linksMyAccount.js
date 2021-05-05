@@ -3,20 +3,20 @@ export default {
   state() {
     return {
       linksMyAccount: [
-        { label: "Dashboard" }, 
-        { label: "Profile" }, 
-        { label: "Player protection tools" }, 
-        { label: "Bank accounts" }, 
-        { label: "Statement" }, 
-        { label: "Settings" }
+        { label: "Link 1 long label here" }, 
+        { label: "Link 2 long label here" }, 
+        { label: "Link 3 long label here" }, 
+        { label: "Link 4 long label here" }, 
+        { label: "Link 5 long label here" }, 
+        { label: "Link 6 long label here" }
       ],
 
       linksMyAccountMobile: [
-        { label: "Profile", icon: 'mdi-account-circle-outline' }, 
-        { label: "Player protection tools", icon: 'mdi-shield-account-outline' }, 
-        { label: "Bank accounts", icon: 'mdi-bank-outline' }, 
-        { label: "Statement", icon: 'mdi-file-document-outline' }, 
-        { label: "Settings", icon: 'mdi-cog-outline' }
+        { label: "Link 1 long label here", icon: 'mdi-account-circle-outline' }, 
+        { label: "Link 2 long label here", icon: 'mdi-shield-account-outline' }, 
+        { label: "Link 3 long label here", icon: 'mdi-bank-outline' }, 
+        { label: "Link 4 long label here", icon: 'mdi-file-document-outline' }, 
+        { label: "Link 5 long label here", icon: 'mdi-cog-outline' }
       ]
     }
   },

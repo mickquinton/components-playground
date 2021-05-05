@@ -28,7 +28,7 @@
         <mobile-links-my-acct></mobile-links-my-acct>
 
         <!-- Player protection tools -->
-        <v-card-title class="mx-4 mt-2 d-none d-sm-flex">Player protection tools</v-card-title>
+        <v-card-title class="mx-4 mt-2 d-none d-sm-flex">Lorem ipsum dolor sit amet</v-card-title>
         <banner-active-ppt></banner-active-ppt>
       </v-card>
     </v-card>
