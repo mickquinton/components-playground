@@ -10,6 +10,9 @@ const routes = [
     name: 'Home',
     component: Home
   },
+
+  // Defaults //
+
   {
     path: '/about',
     name: 'About',
